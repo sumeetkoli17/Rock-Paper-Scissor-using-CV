@@ -49,12 +49,7 @@ python game.py
 - Include sound effects for a more interactive experience.
 ```
 
-## License
-```plaintext
-This project is open-source and available for personal and educational use.
-```
-
 ## Author
 ```plaintext
-Developed by Sumeet Koli
+Sumeet Koli
 ```
